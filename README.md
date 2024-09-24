@@ -18,8 +18,9 @@ This Python script allows you to check if a GitHub repository is exposed by auto
 
 This file should contain one GitHub repository URL per line. Example :
 
-- https://github.com/username/repo1
-- https://github.com/username/repo2
+https://github.com/username/repo1
+
+https://github.com/username/repo2
 
 ## 2. Run the Python script
 
