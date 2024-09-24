@@ -1,7 +1,7 @@
 # Repository Accessibility Checker
 
 ## Version: 1.0
-### Author: Larbi O.
+### Author: Larbi OUIYZME
 
 This Python script allows you to check if a GitHub repository is exposed by automating the verification process. It reads a list of repository URLs from a text file and checks whether each repository is public or private based on the HTTP response code.
 
@@ -18,8 +18,8 @@ This Python script allows you to check if a GitHub repository is exposed by auto
 
 This file should contain one GitHub repository URL per line. Example :
 
-https://github.com/username/repo1
-https://github.com/username/repo2
+- https://github.com/username/repo1
+- https://github.com/username/repo2
 
 ## 2. Run the Python script
 
